@@ -1,9 +1,12 @@
 ## Foundation of Robotics
 
-Being a self-taught robotics researcher, I have struggled a lot to find the 
+As a self-taught robotics researcher, I have struggled to find the 
 right resources to learn fundamental knowledge in robotics. This repository
-is a collection of **Lecture Note** that I made while learning the foundation 
-of robotics. 
+is a collection of **Lecture Notes** I made while learning the foundation 
+of robotics. I believe in the power of **learning by teaching** and **less is 
+more**". Stay tuned for more updates. 
+
+Disclaimer: The notes are not comprehensive and may contain errors.
 
 ### Overview
 
@@ -11,10 +14,7 @@ Robotics Basics
   - Linear Algebra
   - Calculus
   - Convex Optimization
-
-Robot Dynamics
-  - Estimation
-  - Recursive Estimation
+  - Robot Dynamics
 
 Control
   - Control Theory
@@ -29,6 +29,9 @@ Learning
 Vision
   - Vision Algorithms for Mobile Robotics
   - Deep Learning for Computer Vision
+
+Estimation
+  - Recursive Estimation
 
 Case Study
   - Flying Robots
