@@ -1,2 +1,2 @@
-# -Foundation-Knowledge-in-Robotics
+# Foundation-Knowledge-in-Robotics
 Learn fundamental knowledge in robotics 
