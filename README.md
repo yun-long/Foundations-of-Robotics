@@ -17,7 +17,7 @@ Stay tuned for more updates.
 Disclaimer: The notes are not comprehensive and may contain errors.
 
 ### Overview
-![diagram](./images/diagram.png)
+![diagram](./images/diagram_gray.png)
 
 Robotics Basics
   - Linear Algebra ([Course by Prof. Gilbert 
