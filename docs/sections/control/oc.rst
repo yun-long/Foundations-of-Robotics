@@ -1,2 +1,0 @@
-Optimal Control
-================
