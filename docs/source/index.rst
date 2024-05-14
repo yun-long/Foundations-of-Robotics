@@ -13,6 +13,12 @@ modern techniques. I stand on the shoulders of giants, and I will try to provide
 a comprehensive overview of the field, but only focusing on the most important 
 concepts and theory.
 
+.. .. raw:: html
+
+..     <embed src="./pdfs/reinforcement_learning.pdf" width="100%" height="850px"/>
+
+
+..     <a href="./pdfs/reinforcement_learning.pdf" target="_blank">PDF.</a>
 
 .. toctree::
    :maxdepth: 2

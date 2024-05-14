@@ -22,9 +22,9 @@ Disclaimer: The notes are not comprehensive and may contain errors.
 
 
 ### Overview
-![diagram](./docs/images/diagram_gray.png)
+![diagram](./docs/source/images/diagram_gray.png)
 
 
 ### Example
 
-![reinforcement_learning](./docs/images/reinforcement_learning.png)
+![reinforcement_learning](./docs/source/images/reinforcement_learning.png)
