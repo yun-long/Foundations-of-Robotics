@@ -17,7 +17,7 @@ Stay tuned for more updates.
 Disclaimer: The notes are not comprehensive and may contain errors.
 
 ### Overview
-![diagram](./images/diagram_gray.png)
+![diagram](./docs/images/diagram_gray.png)
 
 
 ### Example
