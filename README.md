@@ -1,4 +1,8 @@
 ## Foundations of Robotics
+<div align="center">
+  <a href="https://yun-long.github.io/FoR">Website</a>
+</div>
+
 
 How does a robot move? How does a robot see? How does a robot learn?
 How to represent a robot? How to control a robot? How to estimate the
@@ -16,7 +20,6 @@ Stay tuned for more updates.
 
 Disclaimer: The notes are not comprehensive and may contain errors.
 
-[Website](https://yun-long.github.io/FoR)
 
 ### Overview
 ![diagram](./docs/images/diagram_gray.png)
