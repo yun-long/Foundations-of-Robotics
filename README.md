@@ -34,10 +34,10 @@ We stand up on the shoulders of giants. I deeply appreciate
 the online lectures, books, and papers. I will provide a comprehensive list of 
 references soon. I want to thank the open-source community, which provides
 useful tools for note taking, such as Latex, NeoVim, and texpresso.
-I use figures from the interests for illustration purposes. However, I lost 
+I use figures from the internet for illustration purposes. However, I lost 
 track of the sources of the figures. I didn't put the references in the notes 
 also for the sake of simplicity. If you find your figures in my notes and want 
-to be credited, please let me know. I will add the references to the figures. 
+to be credited, please let me know. 
 Finally, thanks Jiaxu for suggesting the nvim plugin texpresso, it is extremely 
 useful.
 
