@@ -1,6 +1,6 @@
 ## Foundations of Robotics
 <div align="center">
-  <a href="https://yun-long.github.io/FoR">Website</a>
+  <a href="https://yun-long.github.io/Foundations-of-Robotics">Website</a>
 </div>
 
 
