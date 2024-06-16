@@ -6,20 +6,18 @@
 
 How does a robot move? How does a robot see? How does a robot learn?
 How to represent a robot? How to control a robot? How to estimate the
-state of a robot? How to design a robot?
-Too many questions, right?
-As a self-taught robotics researcher, I have struggled to find the 
-right resources to learn fundamental knowledge in robotics. This repository
-is a collection of **Lecture Notes** I made. 
-The design principle of those notes is to be concise, clear, and
+state of a robot? How to design a robot? Too many questions, right?
+This repository provides a collection of **Online Lectures** and **Lecture 
+Notes**. The design principle of those notes is to be concise, clear, and
 comprehensive, namely, **less is more**.
+Whether you're a beginner or looking to deepen your understanding, this resource 
+aims to lay a solid foundation in robotics.
 
-Please let me know if you have interests by **Star** this repository. 
+If you find this repository helpful, you can **Star** it to show your support.
 
-Stay tuned for more updates. 
+Stay tuned for more updates.
 
-Disclaimer: The notes may contain errors.
-
+**Disclaimer**: The notes may contain errors.
 
 ### Overview
 ![diagram](./docs/source/images/diagram_gray.png)
